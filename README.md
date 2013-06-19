@@ -1,1 +1,2 @@
-First line of content orig conflicted
+First line of content my change
+
